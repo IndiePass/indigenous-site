@@ -6,7 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <meta name="description" content="@yield('metadescription', 'A Social Feed Reader for the IndieWeb')" />
-  <meta name="robots" content="noindex">
   <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Indigenous - @yield('title')" />
@@ -24,7 +23,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <meta name="theme-color" content="#DD645E">
+  <meta name="theme-color" content="#D54049">
   <title>@yield('title') Indigenous - A Social Feed Reader for the IndieWeb</title>
 
 
@@ -61,10 +60,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{ env('APP_URL')}}/blog">Blog</a>
-        <!-- <li class="nav-item">
-          <a class="nav-link" href="https://github.com/marksuth/indigenous">GitHub <sup><i class="fas fa-external-link-alt"></i></sup></a>
-        </li> -->
-
+        </li>
       </ul>
       </div>
     </div>
@@ -78,11 +74,10 @@
         <nav class="nav">
       <a href="{{ env('APP_URL')}}/support" class="nav-link text-muted ps-0">Support</a>
        <a href="{{ env('APP_URL')}}/privacy" class="nav-link text-muted">Privacy</a>
-       <!-- <a href="https://github.com/marksuth/indigenous/issues" class="nav-link text-muted">GitHub Issues<sup><i class="fas fa-external-link-alt"></i></sup></a></li> -->
 </nav>
       </div>
   <div class="col-lg-8 text-end">
-<p>iOS &amp; Desktop client are maintained by <a href="https://marksuth.dev">Mark Sutherland</a>.<br> Originally developed by <a href="https://eddiehinkle.com">Eddie Hinkle</a>. Desktop verison originally developed by <a href="https://realize.be">realize.be</a>. Licensed under GPLv3.</p>
+<p>iOS &amp; Desktop client are maintained by <a class="text-muted" href="https://marksuth.dev">Mark Sutherland</a>.<br> Originally developed by <a class="text-muted" href="https://eddiehinkle.com">Eddie Hinkle</a>. Desktop verison originally developed by <a class="text-muted" href="https://realize.be">realize.be</a>. Licensed under GPLv3.</p>
   </div>
     </div>
 
