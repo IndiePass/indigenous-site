@@ -28,3 +28,6 @@ Route::get('/privacy', function () {
 Route::get('/terms', function () {
     return view('docs');
 });
+Route::get('/blog', function () {
+    return view('blog');
+});

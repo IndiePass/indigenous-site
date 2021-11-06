@@ -30,7 +30,18 @@
 
   <link rel="stylesheet" href="{{ asset('css/app.css') }}">
   @yield('extrastyles')
-
+  <script>
+  var _paq = window._paq = window._paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://analytics.marksuth.dev/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
 </head>
 
 <body>
@@ -46,12 +57,13 @@
         <li class="nav-item">
           <a class="nav-link" href="{{ env('APP_URL')}}/downloads">Downloads</a>
         </li>
-        <li class="nav-item">
           <a class="nav-link" href="{{ env('APP_URL')}}/support">Support</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://github.com/marksuth/indigenous">GitHub <sup><i class="bi bi-box-arrow-up-right"></i></sup></a>
-        </li>
+          <a class="nav-link" href="{{ env('APP_URL')}}/blog">Blog</a>
+        <!-- <li class="nav-item">
+          <a class="nav-link" href="https://github.com/marksuth/indigenous">GitHub <sup><i class="fas fa-external-link-alt"></i></sup></a>
+        </li> -->
 
       </ul>
       </div>
@@ -66,7 +78,7 @@
         <nav class="nav">
       <a href="{{ env('APP_URL')}}/support" class="nav-link text-muted ps-0">Support</a>
        <a href="{{ env('APP_URL')}}/privacy" class="nav-link text-muted">Privacy</a>
-       <a href="https://github.com/marksuth/indigenous/issues" class="nav-link text-muted">GitHub Issues<sup><i class="bi bi-box-arrow-up-right"></i></sup></a></li>
+       <a href="https://github.com/marksuth/indigenous/issues" class="nav-link text-muted">GitHub Issues<sup><i class="fas fa-external-link-alt"></i></sup></a></li>
 </nav>
       </div>
   <div class="col-lg-8 text-end">
