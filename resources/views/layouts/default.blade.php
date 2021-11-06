@@ -78,7 +78,7 @@
         <nav class="nav">
       <a href="{{ env('APP_URL')}}/support" class="nav-link text-muted ps-0">Support</a>
        <a href="{{ env('APP_URL')}}/privacy" class="nav-link text-muted">Privacy</a>
-       <a href="https://github.com/marksuth/indigenous/issues" class="nav-link text-muted">GitHub Issues<sup><i class="fas fa-external-link-alt"></i></sup></a></li>
+       <!-- <a href="https://github.com/marksuth/indigenous/issues" class="nav-link text-muted">GitHub Issues<sup><i class="fas fa-external-link-alt"></i></sup></a></li> -->
 </nav>
       </div>
   <div class="col-lg-8 text-end">

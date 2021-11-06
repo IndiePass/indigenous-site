@@ -72,10 +72,14 @@ html {
       border: 0;
       border-radius: 3px;
       box-shadow: 0 2px 5px rgba($dark, 0.15);
+      cursor: pointer;
+      text-decoration: none;
   }
   
   .cookie-consent__agree:hover {
       background-color: rgba($primary, 0.8);
+      color: $white;
+      text-decoration: none;
   }
   
   .cookie-consent__agree:active {
@@ -89,4 +93,7 @@ html {
   }
   .page {
 min-height: 60vh;
+  }
+  .btn {
+    border-radius: 50px;
   }

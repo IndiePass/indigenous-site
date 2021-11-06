@@ -11,9 +11,7 @@
 
                             <p class="lead">A social app for the IndieWeb.</p>
                             <div class="d-flex justify-content-evenly">
-                                <a href="/downloads" class="btn btn-lg btn-secondary me-3">Download for iOS</a>
-                                <a href="/downloads" class="btn btn-lg btn-secondary">Download for Desktop</a>
-                                <a href="https://indigenous.realize.be" class="btn btn-lg btn-success ms-3">Download for Android<sup><i class="fas fa-external-link-alt"></i></sup></a>
+                                <a href="/downloads" class="btn btn-lg btn-secondary me-3">Download Indigenous</a>
                             </div>
                             </div>
                         </div>
