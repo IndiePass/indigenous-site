@@ -56,6 +56,7 @@
         <li class="nav-item">
           <a class="nav-link" href="{{ env('APP_URL')}}/downloads">Downloads</a>
         </li>
+        <li class="nav-item">
           <a class="nav-link" href="{{ env('APP_URL')}}/support">Support</a>
         </li>
         <li class="nav-item">
