@@ -78,7 +78,7 @@
 </nav>
       </div>
   <div class="col-lg-8 text-end">
-<p>iOS &amp; Desktop client are maintained by <a class="text-muted" href="https://marksuth.dev">Mark Sutherland</a>.<br> Originally developed by <a class="text-muted" href="https://eddiehinkle.com">Eddie Hinkle</a>. Desktop verison originally developed by <a class="text-muted" href="https://realize.be">realize.be</a>. Licensed under GPLv3.</p>
+<p>iOS &amp; Desktop client are maintained by <a class="text-muted" href="https://marksuth.dev">Mark Sutherland</a>.<br> Originally developed by <a class="text-muted" href="https://eddiehinkle.com">Eddie Hinkle</a>. Desktop verison originally developed by <a class="text-muted" href="https://realize.be">realize.be</a>.<br> Licensed under <a href="https://opensource.org/licenses/GPL-3.0" class="text-muted">GPL-3.0</a>.</p>
   </div>
     </div>
 
