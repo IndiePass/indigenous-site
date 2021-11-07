@@ -32,6 +32,7 @@
                     <div class="col-md-4">
                         <h3 class="h5">General Features</h3>
                         <ul class="list-unstyled">
+                            <li>Starts with default anonymous account</li>
                             <li>Uses the font of your system</li>
                             <li>Accounts: configure endpoints and token
                                 Screen state: remember position, fullscreen etc</li>
