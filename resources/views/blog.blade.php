@@ -8,7 +8,8 @@
 <main class="container page">
     <div class="row justify-content-center">
         <div class="col-lg-10 py-5 text-center">
-            <h2>Blog Coming Soon</h2>
+            <h2>Dev Blog Coming Soon</h2>
+            <p class="py-5">In the meantime, I am posting regular progress updates on <a href="https://marksuth.dev">marksuth.dev</a></p>
         </div>
     </div>
 </main>

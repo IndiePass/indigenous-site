@@ -19,6 +19,15 @@ Route::get('/', function () {
 Route::get('/downloads', function () {
     return view('downloads');
 });
+Route::get('/android', function () {
+    return view('android');
+});
+Route::get('/ios', function () {
+    return view('ios');
+});
+Route::get('/desktop', function () {
+    return view('desktop');
+});
 Route::get('/support', function () {
     return view('support');
 });

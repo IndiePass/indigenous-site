@@ -12,7 +12,35 @@
         </div>
     </div>
 </header>
-<section id="desktop" class="py-5">
+
+<section id="android" class="pt-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="d-flex">
+                    <div class="col-md-8 order-md-last">
+                        <h2>Indigenous on Android</h2>
+                        <div class="row">
+                            <div class="col-4">
+                        <a href="https://play.google.com/store/apps/details?id=com.indieweb.indigenous" class="p-1"><img src="{{ asset('/images/google-play-badge.svg') }}" height="50" alt="Get it on Google Play" class="img-fluid"></a>
+                            </div>
+                            <div class="col-4">
+                        <a href="https://play.google.com/store/apps/details?id=com.indieweb.indigenous"><img src="{{ asset('/images/fdroid-badge.svg') }}" alt="Get it on F-Droid" height="50"  class="img-fluid"></a>
+                            </div>
+                        </div>
+                        <p><strong>New 2.0 version coming early 2022!</strong></p>
+                        <p>Found an issue with the app or have any feedback or suggestions? Raise an issue <a href="https://github.com/swentel/indigenous-android">on GitHub</a>.</p>
+
+                    </div>
+                    <div class="col-md-4 order-md-first">
+                        <img src="{{ asset('/images/android-screenshot.png') }}" alt="Indigenous on iOS" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="desktop" class="bg-light py-5">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10">
@@ -72,7 +100,7 @@
             </div>
         </div>
 </section>
-<section id="ios" class="bg-light pt-5">
+<section id="ios" class="pt-5">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10">
@@ -87,7 +115,7 @@
 
                     </div>
                     <div class="col-md-3">
-                        <img src="{{ asset('/images/indigenous-ios-screenshot.png') }}" alt="Indigenous on iOS" class="img-fluid">
+                        <img src="{{ asset('/images/ios-screenshot.png') }}" alt="Indigenous on iOS" class="img-fluid">
                     </div>
                 </div>
             </div>
