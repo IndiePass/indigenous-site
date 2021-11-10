@@ -48,7 +48,7 @@
                     <div class="col-md-7 py-5">
                         <h2>Indigenous on Desktop</h2>
                         <p>Available on Windows, Linux and macOS (Intel chip & Apple Silicon).</p>
-                        <p><a href="/downloads" class="btn btn-primary me-3">Download Indigenous</a> <span class="text-muted">Current version 1.2.0</span>
+                        <p><a href="/downloads" class="btn btn-primary me-3">Download Indigenous</a><br><span class="text-muted">Current version 1.3.0</span>
                         </p>
                         <p><strong>New 2.0 version coming early 2022!</strong></p>
                         <p>Found an issue with the app or have any feedback or suggestions?<br> Raise an issue <a href="https://github.com/marksuth/indigenous-desktop">on GitHub</a>.</p>

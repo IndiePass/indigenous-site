@@ -30,13 +30,13 @@
         </div>
         <div class="col-lg-4 offset-lg-2">
             <h2 class="text-primary">Desktop Version</h2>
-            <p><strong>Verison</strong> 1.2.0 (released 14/10/20) <a class="text-muted" href="https://github.com/marksuth/indigenous-desktop">GitHub Repo</a></p>
+            <p><strong>Verison</strong> 1.3.0 (released 10/11/21) <a class="text-muted" href="https://github.com/marksuth/indigenous-desktop">GitHub Repo</a></p>
             <ul class="nav flex-column mb-3">
-                <li class="nav-item"><a class="nav-link" href="https://github.com/marksuth/indigenous-desktop/releases/download/v1.2.0/Indigenous-for-desktop-Win32-x64-1.2.0.zip?"><i class="fab fa-fw fa-windows"></i> Windows (32 & 64 bit)</a></li>
-                <li class="nav-item"><a class="nav-link" href="https://github.com/marksuth/indigenous-desktop/releases/download/v1.2.0/Indigenous-for-desktop-MacOS-1.2.0.zip"><i class="fab fa-fw fa-apple"></i> macOS (Intel Chip)</a></li>
-                <li class="nav-item"><a class="nav-link" href="https://github.com/marksuth/indigenous-desktop/releases/download/v1.2.0/Indigenous-for-desktop-Linux-x64-1.2.0.zip"><i class="fab fa-fw fa-linux"></i> Linux (64 bit)</a></li>
-                <li class="nav-item"><a class="nav-link" href="https://github.com/marksuth/indigenous-desktop/archive/refs/tags/v1.2.0.zip"><i class="fas fa-fw fa-download"></i> Source Code (zip)</a></li>
-                <li class="nav-item"><a class="nav-link" href="https://github.com/marksuth/indigenous-desktop/archive/refs/tags/v1.2.0.tar.gz"><i class="fas fa-fw fa-download"></i> Source Code (tar.gz)</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://github.com/marksuth/indigenous-desktop/releases/download/v1.3.0/Indigenous-1.3.0.Setup.exe"><i class="fab fa-fw fa-windows"></i> Windows Installer (32 & 64 bit)</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://github.com/marksuth/indigenous-desktop/releases/download/v1.3.0/Indigenous-1.3.0-intel.dmg"><i class="fab fa-fw fa-apple"></i> macOS Installer (Intel Chip)</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://github.com/marksuth/indigenous-desktop/releases/download/v1.3.0/Indigenous-1.3.0-m1.dmg"><i class="fab fa-fw fa-apple"></i> macOS Installer (Apple Silicon)</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://github.com/marksuth/indigenous-desktop/releases/download/v1.3.0/indigenous_1.3.0_amd64.deb"><i class="fab fa-fw fa-linux"></i> Linux Installer (.deb)</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://github.com/marksuth/indigenous-desktop/releases/download/v1.3.0/indigenous-1.3.0-1.x86_64.rpm"><i class="fab fa-fw fa-linux"></i> Linux Installer (.rpm)</a></li>
             </ul>
             <h3>Installation Notes</h3>
             <h4>Linux</h4>
