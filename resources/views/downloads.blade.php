@@ -20,7 +20,7 @@
                     <a href="https://play.google.com/store/apps/details?id=com.indieweb.indigenous" class="p-1"><img src="{{ asset('/images/google-play-badge.svg') }}" height="50" alt="Get it on Google Play" class="img-fluid"></a>
                 </div>
                 <div class="col-6">
-                    <a href="https://play.google.com/store/apps/details?id=com.indieweb.indigenous"><img src="{{ asset('/images/fdroid-badge.svg') }}" alt="Get it on F-Droid" height="50" class="img-fluid"></a>
+                    <a href="https://f-droid.org/en/packages/com.indieweb.indigenous/"><img src="{{ asset('/images/fdroid-badge.svg') }}" alt="Get it on F-Droid" height="50" class="img-fluid"></a>
                 </div>
             </div>
             <h2 class="text-primary">iOS Version</h2>
