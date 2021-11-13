@@ -2,7 +2,7 @@
 @section('page')
 <header class="bg-primary text-white mb-4 py-3">
     <div class="container">
-        <h1>Indigenous on Desktop</h1>
+        <h1>Indigenous on Android</h1>
     </div>
 </header>
 <section id="page-intro" class="pt-3">
@@ -20,7 +20,7 @@
                             </div>
                         </div>
                         <p><strong>New 2.0 version coming early 2022!</strong></p>
-                        <p>Found an issue with the app or have any feedback or suggestions? Raise an issue <a href="https://github.com/swentel/indigenous-android">on GitHub</a>.</p>
+                        <p>Found an issue with the app or have any feedback or suggestions? Raise an issue <a href="https://github.com/marksuth/indigenous-android/issues">on GitHub</a>.</p>
 
                     </div>
                     <div class="col-md-3">

@@ -54,13 +54,19 @@
       <div class="collapse navbar-collapse" id="navbarsExample04">
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
         <li class="nav-item">
+          <a class="nav-link" href="{{ env('APP_URL')}}/android">Android</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ env('APP_URL')}}/desktop">Desktop</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ env('APP_URL')}}/ios">iOS</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="{{ env('APP_URL')}}/downloads">Downloads</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{ env('APP_URL')}}/support">Support</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ env('APP_URL')}}/blog">Blog</a>
         </li>
       </ul>
       </div>

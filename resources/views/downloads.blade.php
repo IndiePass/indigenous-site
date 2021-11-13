@@ -5,7 +5,7 @@
         <h1>Downloads</h1>
     </div>
 </header>
-<main class="container">
+<main class="container mb-5">
     <div class="alert alert-info text-center">
         The app is currently being re-written from the ground up. To stay up to date with progress, please follow <a href="/blog">the blog</a>.
     </div>
@@ -14,7 +14,7 @@
     <div class="row">
     <div class="col-lg-6">
            <h2 class="text-primary mt-4">Android Version</h2>
-            <p><strong>Version</strong> 0.64 (released 16/08/20) <a class="text-muted" href="https://github.com/swentel/indigenous-android">GitHub Repo</a></p>
+            <p><strong>Version</strong> 0.64 (released 16/08/20) <a class="text-muted" href="https://github.com/marksuth/indigenous-android">GitHub Repo</a></p>
             <div class="row mb-5">
                 <div class="col-6">
                     <a href="https://play.google.com/store/apps/details?id=com.indieweb.indigenous" class="p-1"><img src="{{ asset('/images/google-play-badge.svg') }}" height="50" alt="Get it on Google Play" class="img-fluid"></a>

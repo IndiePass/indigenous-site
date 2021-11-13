@@ -29,7 +29,7 @@
                             </div>
                         </div>
                         <p><strong>New 2.0 version coming early 2022!</strong></p>
-                        <p>Found an issue with the app or have any feedback or suggestions?<br> Raise an issue <a href="https://github.com/swentel/indigenous-android">on GitHub</a>.</p>
+                        <p>Found an issue with the app or have any feedback or suggestions?<br> Raise an issue <a href="https://github.com/marksuth/indigenous-android/issues">on GitHub</a>.</p>
 
                     </div>
                     <div class="col-md-4 order-md-first">
