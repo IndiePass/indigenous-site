@@ -40,3 +40,6 @@ Route::get('/terms', function () {
 Route::get('/blog', function () {
     return view('blog');
 });
+Route::get('/android-callback', function () {
+    return view('android-callback');
+});
