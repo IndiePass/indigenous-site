@@ -68,6 +68,9 @@
         <li class="nav-item">
           <a class="nav-link" href="{{ env('APP_URL')}}/support">Support</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://marksuth.dev/tag/indigenous/">Updates</a>
+        </li>
       </ul>
       </div>
     </div>

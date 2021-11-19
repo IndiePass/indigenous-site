@@ -1,6 +1,7 @@
 @extends('layouts.default')
+@section('title', 'Downloads')
 @section('page')
-<header class="bg-primary text-white mb-4 py-3">
+≈<header class="bg-primary text-white mb-4 py-3">
     <div class="container">
         <h1>Downloads</h1>
     </div>
@@ -14,7 +15,7 @@
     <div class="row">
     <div class="col-lg-6">
            <h2 class="text-primary mt-4">Android Version</h2>
-            <p><strong>Version</strong> 0.64 (released 16/08/20) <a class="text-muted" href="https://github.com/marksuth/indigenous-android">GitHub Repo</a></p>
+            <p><strong>Version</strong> 0.65 (released 20/11/21) <a class="text-muted" href="https://github.com/marksuth/indigenous-android">GitHub Repo</a></p>
             <div class="row mb-5">
                 <div class="col-6">
                     <a href="https://play.google.com/store/apps/details?id=com.indieweb.indigenous" class="p-1"><img src="{{ asset('/images/google-play-badge.svg') }}" height="50" alt="Get it on Google Play" class="img-fluid"></a>

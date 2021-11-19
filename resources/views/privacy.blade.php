@@ -1,4 +1,5 @@
 @extends('layouts.default')
+@section('title', 'Privacy Policy')
 @section('page')
 <header class="bg-primary text-white mb-4 py-3">
     <div class="container">

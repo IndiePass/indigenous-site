@@ -3,12 +3,17 @@
 <header id="intro" class="bg-primary text-white">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-6 h-x-app">
+            <div class="col-md-6 h-x-app text-center">
                 <img src="{{ asset('/images/logo-solid.svg') }}" alt="Indigenous" class="img-fluid u-logo">
                 <h1 class="sr-only p-name">Indigenous</h1>
                 <p class="lead py-3 p-summary">A social app for the IndieWeb.</p>
                 <a href="https://indigenous.marksuth.dev/downloads" class="btn btn-lg btn-secondary me-3 u-url">Download Indigenous</a>
+                <div class="bg-white text-dark shadow my-5 p-3">
+                <h2 class="h4">New name incoming!</h2>    
+                <p>Indigenous is changing to a new name in  December 2021. To suggest a new name, and to vote on suggestions, please visit <a href="https://indieweb.org/Indigenous#Renaming">indieweb.org/indigenous</a></p></div></div>
+
             </div>
+
         </div>
     </div>
 </header>
