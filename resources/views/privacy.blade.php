@@ -9,10 +9,10 @@
 <main class="container">
     <div class="row justify-content-center">
         <div class="col-lg-10 py-3">
-            <p>This policy applies to all information collected or submitted on Indigenous for iOS' website and our apps for iPhone and any other Apple devices and platforms.</p>
+            <p>This policy applies to all information collected or submitted on Indigenous website and our apps for iPhone and any other Apple devices and platforms.</p>
 
             <h2>Information we collect</h2>
-            <p>All data in the iOS app is stored on the Micropub and Microsub servers of your choosing. None of your information is passed to any other servers.</p>
+            <p>All data in the app is stored on the Micropub and Microsub servers of your choosing. None of your information is passed to any other servers.</p>
 
             <p>We collect bug reports using the Crashlytics software to make your app experience better.</p>
 
@@ -52,11 +52,12 @@
             <p>By using our site or apps, you consent to our privacy policy.</p>
 
             <h2>Contacting Us</h2>
-            <p>If you have questions regarding this privacy policy, you may email <a href="mailto:privacy@marksuth.dev">privacy@marksuth.dev</a>.</p>
+            <p>If you have questions regarding this privacy policy, you may email <a href="mailto:support@marksuth.dev">support@marksuth.dev</a>.</p>
 
             <h2>Changes to this policy</h2>
             <p>If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:</p>
             <ul>
+                <li>20th November 2021: Updated support email and corrected typos.</li>
                 <li>5th November 2021: Updated to reflect new maintainer.</li>
                 <li>June 27, 2018: First published</li>
             </ul>
