@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('title', 'Downloads')
 @section('page')
-≈<header class="bg-primary text-white mb-4 py-3">
+<header class="bg-primary text-white mb-4 py-3">
     <div class="container">
         <h1>Downloads</h1>
     </div>
