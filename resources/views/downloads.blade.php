@@ -7,11 +7,6 @@
     </div>
 </header>
 <main class="container mb-5">
-    <div class="alert alert-info text-center">
-        The app is currently being re-written from the ground up. To stay up to date with progress, please follow <a href="/blog">the blog</a>.
-    </div>
-    </div>
-
     <div class="row">
     <div class="col-lg-6">
            <h2 class="text-primary mt-4">Android Version</h2>
