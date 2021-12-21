@@ -9,8 +9,7 @@
                 <p class="lead py-3 p-summary">A social app for the IndieWeb.</p>
                 <a href="https://indigenous.marksuth.dev/downloads" class="btn btn-lg btn-secondary me-3 u-url">Download Indigenous</a>
                 <div class="bg-white text-dark shadow my-5 p-3">
-                <h2 class="h4">New name incoming!</h2>    
-                <p><h2>App name update</h2>       
+                <h2 class="h3">App name update</h2>       
 <p>As part of the next major update, due for release in early 2022, Indigenous will be renamed to <strong>IndiePass</strong>!</p></div></div>
 
             </div>
