@@ -74,7 +74,7 @@
                 <p>Aperture is currently the only Microsub-compatible server available for registration. It is currently in beta and it only stores the last 7 days worth of posts in your timeline. Feel free to sign up!</p>
 
                 <h3 id="microblog-microsub">Micro.blog</h3>
-                <p><strong>Micro.blog</strong> doesn't currently support Microsub <a href="https://micro.blog/manton/684403">due to the evolving nature of the specification</a>. If you are using a Micro.blog-hosted blog, and have an external Microsub server you can add the HTML link above in your <a href="http://www.manton.org/2018/07/micro-blog-hosted-footer-html-and-redirects.html">Micro.blog-hosted blog's footer</a>. Built-in support for Micro.blog's Timeline API is planned for Indigenous version 1.1</p>
+                <p><strong>Micro.blog</strong> doesn't currently support Microsub <a href="https://micro.blog/manton/684403">due to the evolving nature of the specification</a>. If you are using a Micro.blog-hosted blog, and have an external Microsub server you can add the HTML link above in your <a href="http://www.manton.org/2018/07/micro-blog-hosted-footer-html-and-redirects.html">Micro.blog-hosted blog's footer</a>. Built-in support for Micro.blog's Timeline API is planned for IndiePass version 1.1</p>
 
                 <h3><a id="custom-microsub" href="https://indieweb.org/microsub">Custom</a></h3>
                 <p>If you know how to program, you can build your own Microsub server! More information can be found on the <a href="https://indieweb.org/microsub">Microsub page on the IndieWeb wiki</a></p>

@@ -3,7 +3,7 @@
 @section('page')
 <header class="bg-primary text-white mb-4 py-3">
     <div class="container">
-        <h1>Indigenous on Android</h1>
+        <h1>IndiePass on Android</h1>
     </div>
 </header>
 <section id="page-intro" class="pt-3">
@@ -25,7 +25,7 @@
 
                     </div>
                     <div class="col-md-3">
-                        <img src="{{ asset('/images/android-screenshot.png') }}" alt="Indigenous on iOS" class="img-fluid">
+                        <img src="{{ asset('/images/android-screenshot.png') }}" alt="IndiePass on iOS" class="img-fluid">
                     </div>
                 </div>
             </div>

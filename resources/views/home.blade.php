@@ -5,12 +5,12 @@
         <div class="row justify-content-center">
             <div class="col-md-6 h-x-app text-center">
                 <img src="{{ asset('/images/logo-solid.svg') }}" alt="Indigenous" class="img-fluid u-logo">
-                <h1 class="sr-only p-name">Indigenous</h1>
+                <h1 class="sr-only p-name">IndiePass</h1>
                 <p class="lead py-3 p-summary">A social app for the IndieWeb.</p>
-                <a href="https://indigenous.marksuth.dev/downloads" class="btn btn-lg btn-secondary me-3 u-url">Download Indigenous</a>
+                <a href="{{ env('APP_URL')}}/downloads" class="btn btn-lg btn-secondary me-3 u-url">Download IndiePass</a>
                 <div class="bg-white text-dark shadow my-5 p-3">
                 <h2 class="h3">App name update</h2>       
-<p>As part of the next major update, due for release in early 2022, Indigenous will be renamed to <strong>IndiePass</strong>!</p></div></div>
+<p>A small update for Android that updates the app name is now live. An update for the desktop version will be available soon. For various technical and logistical reasons, it is not possible to update the iOS version at the moment.</p></div></div>
 
             </div>
 
@@ -24,7 +24,7 @@
             <div class="col-lg-10">
                 <div class="d-flex">
                     <div class="col-md-8 order-md-last">
-                        <h2>Indigenous on Android</h2>
+                        <h2>IndiePass on Android</h2>
                         <div class="row">
                             <div class="col-4">
                         <a href="https://play.google.com/store/apps/details?id=com.indieweb.indigenous" class="p-1"><img src="{{ asset('/images/google-play-badge.svg') }}" height="50" alt="Get it on Google Play" class="img-fluid"></a>
@@ -38,7 +38,7 @@
 
                     </div>
                     <div class="col-md-4 order-md-first">
-                        <img src="{{ asset('/images/android-screenshot.png') }}" alt="Indigenous on iOS" class="img-fluid">
+                        <img src="{{ asset('/images/android-screenshot.png') }}" alt="IndiePass on iOS" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -51,16 +51,16 @@
             <div class="col-lg-10">
                 <div class="row">
                     <div class="col-md-7 py-5">
-                        <h2>Indigenous on Desktop</h2>
+                        <h2>IndiePass on Desktop</h2>
                         <p>Available on Windows, Linux and macOS (Intel chip & Apple Silicon).</p>
-                        <p><a href="/downloads" class="btn btn-primary me-3">Download Indigenous</a><br><span class="text-muted">Current version 1.3.0</span>
+                        <p><a href="{{ env('APP_URL')}}/downloads" class="btn btn-primary me-3">Download IndiePass</a><br><span class="text-muted">Current version 1.3.0</span>
                         </p>
                         <p><strong>New 2.0 version coming early 2022!</strong></p>
                         <p>Found an issue with the app or have any feedback or suggestions?<br> Raise an issue <a href="https://github.com/marksuth/indigenous-desktop">on GitHub</a>.</p>
 
                     </div>
                     <div class="col-md-5">
-                        <img src="{{ asset('/images/indigenous-desktop-screenshot.png') }}" alt="Indigenous on Desktop" class="img-fluid">
+                        <img src="{{ asset('/images/indigenous-desktop-screenshot.png') }}" alt="IndiePass on Desktop" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@
 
                     </div>
                     <div class="col-md-3">
-                        <img src="{{ asset('/images/ios-screenshot.png') }}" alt="Indigenous on iOS" class="img-fluid">
+                        <img src="{{ asset('/images/ios-screenshot.png') }}" alt="IndiePass on iOS" class="img-fluid">
                     </div>
                 </div>
             </div>

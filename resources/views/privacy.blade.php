@@ -9,7 +9,7 @@
 <main class="container">
     <div class="row justify-content-center">
         <div class="col-lg-10 py-3">
-            <p>This policy applies to all information collected or submitted on Indigenous website and our apps for iPhone and any other Apple devices and platforms.</p>
+            <p>This policy applies to all information collected or submitted on IndiePass website and our apps for iPhone and any other Apple devices and platforms.</p>
 
             <h2>Information we collect</h2>
             <p>All data in the app is stored on the Micropub and Microsub servers of your choosing. None of your information is passed to any other servers.</p>
@@ -43,7 +43,7 @@
             <p>We never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</p>
 
             <h2>Information for European Union Customers</h2>
-            <p>By using Indigenous and providing your information, you authorize us to collect, use, and store your information outside of the European Union.</p>
+            <p>By using IndiePass and providing your information, you authorize us to collect, use, and store your information outside of the European Union.</p>
 
             <h2>International Transfers of Information</h2>
             <p>Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed, stored, or used.</p>
