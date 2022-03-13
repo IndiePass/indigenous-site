@@ -3,7 +3,7 @@
 @section('page')
 <header class="bg-primary text-white mb-4 py-3">
     <div class="container">
-        <h1>IndiePass on Android</h1>
+        <h1>Indigenous on Android</h1>
     </div>
 </header>
 <section id="page-intro" class="pt-3">
@@ -20,7 +20,7 @@
                                 <a href="https://f-droid.org/en/packages/com.indieweb.indigenous/"><img src="{{ asset('/images/fdroid-badge.svg') }}" alt="Get it on F-Droid" height="50" class="img-fluid"></a>
                             </div>
                         </div>
-                        <p><strong>New 2.0 version coming early 2022!</strong></p>
+                        <p><strong>New 2.0 version coming soon!</strong></p>
                         <p>Found an issue with the app or have any feedback or suggestions? Raise an issue <a href="https://github.com/marksuth/indigenous-android/issues">on GitHub</a>.</p>
 
                     </div>

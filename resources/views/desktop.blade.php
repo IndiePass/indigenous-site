@@ -3,7 +3,7 @@
 @section('page')
 <header class="bg-primary text-white mb-4 py-3">
     <div class="container">
-                <h1>IndiePass on Desktop</h1>
+                <h1>Indigenous on Desktop</h1>
     </div>
 </header>
 <section id="page-intro" class="pt-3">
@@ -13,9 +13,8 @@
                 <div class="row">
                     <div class="col-md-7">
                         <p>Available on Windows, Linux and macOS (Intel chip & Apple Silicon).</p>
-                        <p><a href="/downloads" class="btn btn-primary btn-lg me-3">Download IndiePass</a> <span class="text-muted">Current version 1.2.0</span>
+                        <p><a href="/downloads" class="btn btn-primary btn-lg me-3">Download</a> <span class="text-muted">Current version 1.2.0</span>
                         </p>
-                        <p><strong>New 2.0 version coming early 2022!</strong></p>
                     </div>
                     <div class="col-md-5">
                         <img src="{{ asset('/images/indigenous-desktop-screenshot.png') }}" alt="IndiePass on Desktop" class="img-fluid">
