@@ -8,7 +8,7 @@
   <meta name="description" content="@yield('metadescription', 'A Social Feed Reader for the IndieWeb')" />
   <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="IndiePass - @yield('title')" />
+  <meta property="og:title" content="Indigenous - @yield('title')" />
   <meta property="og:description" content="@yield('metadescription')" />
   <meta property="og:url" content="@yield('ogurl', config('app.url'))" />
   <meta property="og:site_name" content="Indigenous" />
@@ -18,13 +18,13 @@
   <meta property="og:image:height" content="630" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:description" content="@yield('metadescription', 'A Social Feed Reader for the IndieWeb' )" />
-  <meta name="twitter:title" content="IndiePass - @yield('title')" />
+  <meta name="twitter:title" content="Indigenous - @yield('title')" />
   <meta name="twitter:image" content="{{ env('APP_URL')}}/images/@yield('ogimg', 'og-logo.jpg')" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <meta name="theme-color" content="#D54049">
-  <title>@yield('title') IndiePass - A Social Feed Reader for the IndieWeb</title>
+  <title>@yield('title') Indigenous - A Social Feed Reader for the IndieWeb</title>
 
 
   <link rel="stylesheet" href="{{ asset('css/app.css') }}">

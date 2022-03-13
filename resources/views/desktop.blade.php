@@ -17,7 +17,7 @@
                         </p>
                     </div>
                     <div class="col-md-5">
-                        <img src="{{ asset('/images/indigenous-desktop-screenshot.png') }}" alt="IndiePass on Desktop" class="img-fluid">
+                        <img src="{{ asset('/images/indigenous-desktop-screenshot.png') }}" alt="Indigenous on Desktop" class="img-fluid">
                     </div>
                 </div>
             </div>

@@ -27,7 +27,7 @@ $url = 'indigenous-android://oauthcallback?code=' . $code . '&state=' . $state;
 
 <h1>Indigenous OAuth Sign in.</h1>
 <br /><br />
-If IndiePass is not opening, <a href="<?php echo $url; ?>">click here</a>
+If Indigenous is not opening, <a href="<?php echo $url; ?>">click here</a>
 
 
 </body>

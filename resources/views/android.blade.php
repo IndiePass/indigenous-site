@@ -25,7 +25,7 @@
 
                     </div>
                     <div class="col-md-3">
-                        <img src="{{ asset('/images/android-screenshot.png') }}" alt="IndiePass on iOS" class="img-fluid">
+                        <img src="{{ asset('/images/android-screenshot.png') }}" alt="Indigenous on iOS" class="img-fluid">
                     </div>
                 </div>
             </div>
