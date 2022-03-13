@@ -46,7 +46,7 @@
 <body>
 <nav class="navbar navbar-expand-md navbar-dark bg-primary" aria-label="Fourth navbar example">
     <div class="container">
-      <a class="navbar-brand" href="{{ env('APP_URL')}}"><img src="/images/logo.svg" alt="Indigenous" height="40" width="183" class="me-1" /></a>
+      <a class="h-app u-url navbar-brand" href="{{ env('APP_URL')}}"><img src="/images/logo.svg" alt="Indigenous" height="40" width="183" class="me-1 u-logo" /></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
