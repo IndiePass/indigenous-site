@@ -34,7 +34,7 @@
                         <a href="https://f-droid.org/en/packages/com.indieweb.indigenous/"><img src="{{ asset('/images/fdroid-badge.svg') }}" alt="Get it on F-Droid" height="50"  class="img-fluid"></a>
                             </div>
                         </div>
-                        <p>Found an issue with the app or have any feedback or suggestions?<br> Raise an issue <a href="https://github.com/marksuth/indigenous-android/issues">on GitHub</a>.</p>
+                        <p>Found an issue with the app or have any feedback or suggestions?<br> Raise an issue <a href="https://github.com/indiepass/indigenous-android/issues">on GitHub</a>.</p>
 
                     </div>
                     <div class="col-md-4 order-md-first">
@@ -55,7 +55,7 @@
                         <p>Available on Windows, Linux and macOS (Intel chip & Apple Silicon).</p>
                         <p><a href="{{ env('APP_URL')}}/downloads" class="btn btn-primary me-3">Download Indigenous</a><br><span class="text-muted">Current version 1.3.0</span>
                         </p>
-                        <p>Found an issue with the app or have any feedback or suggestions?<br> Raise an issue <a href="https://github.com/marksuth/indigenous-desktop">on GitHub</a>.</p>
+                        <p>Found an issue with the app or have any feedback or suggestions?<br> Raise an issue <a href="https://github.com/indiepass/indigenous-desktop">on GitHub</a>.</p>
 
                     </div>
                     <div class="col-md-5">

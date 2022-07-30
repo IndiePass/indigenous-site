@@ -67,7 +67,7 @@
                         </ul>
                     </div>
                 </div>
-                <p class="pt-5">Found an issue with the app or have any feedback or suggestions? Raise an issue <a href="https://github.com/marksuth/indigenous-desktop/issues">on GitHub</a>.</p>
+                <p class="pt-5">Found an issue with the app or have any feedback or suggestions? Raise an issue <a href="https://github.com/indiepass/indigenous-desktop/issues">on GitHub</a>.</p>
             </div>
         </div>
     </div>

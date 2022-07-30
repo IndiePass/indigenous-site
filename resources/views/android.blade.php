@@ -21,7 +21,7 @@
                             </div>
                         </div>
                         <p><strong>New 2.0 version coming soon!</strong></p>
-                        <p>Found an issue with the app or have any feedback or suggestions? Raise an issue <a href="https://github.com/marksuth/indigenous-android/issues">on GitHub</a>.</p>
+                        <p>Found an issue with the app or have any feedback or suggestions? Raise an issue <a href="https://github.com/indiepass/indigenous-android/issues">on GitHub</a>.</p>
 
                     </div>
                     <div class="col-md-3">
@@ -86,7 +86,7 @@
 <li>Pixelfed: settings/applications</li>
 <li>Pleroma: not found yet (info welcome!)</li>
 </ul>
-        <p class="pt-5">Found an issue with the app or have any feedback or suggestions? Raise an issue <a href="https://github.com/marksuth/indigenous-desktop">on GitHub</a>.</p>
+        <p class="pt-5">Found an issue with the app or have any feedback or suggestions? Raise an issue <a href="https://github.com/indiepass/indigenous-desktop">on GitHub</a>.</p>
     </div>
     </div>
     </div>
