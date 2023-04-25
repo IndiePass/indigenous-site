@@ -1,0 +1,39 @@
+// Variables
+@import "variables";
+
+@import "fonts";
+@import "bootstrap";
+
+.bg-gradient {
+    background: $red;
+    //background: linear-gradient(-45deg, $red, $red-alt);
+}
+
+.error-page {
+    padding-top: 15vh;
+    min-height: 80vh;
+    & h1 {
+        font-size: 5rem;
+    }
+}
+
+.site-footer {
+    font-size: 0.85rem;
+    background: $dark;
+    color: $white;
+}
+
+.hero-phone {
+    max-height: 70vh;
+    max-width: 100%;
+}
+
+@media (min-width: 768px) {
+    .home-fill {
+        min-height: 86vh;
+
+    }
+    .container-fluid {
+        padding-right: 0;
+    }
+}

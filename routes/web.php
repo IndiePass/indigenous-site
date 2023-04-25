@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\PageController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -8,35 +9,24 @@ use Illuminate\Support\Facades\Route;
 |--------------------------------------------------------------------------
 |
 | Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
+| routes are loaded by the RouteServiceProvider and all of them will
+| be assigned to the "web" middleware group. Make something great!
 |
 */
 
-Route::get('/', function () {
-    return view('home');
+Route::controller(PageController::class)->group(function () {
+    Route::get('/', 'home')->name('home');
+    Route::get('/android-callback', 'androidCallback')->name('android-callback');
 });
-Route::get('/downloads', function () {
-    return view('downloads');
-});
-Route::get('/android', function () {
-    return view('android');
-});
-Route::get('/ios', function () {
-    return view('ios');
-});
-Route::get('/desktop', function () {
-    return view('desktop');
-});
-Route::get('/support', function () {
-    return view('support');
-});
-Route::get('/privacy', function () {
-    return view('privacy');
-});
-Route::get('/terms', function () {
-    return view('docs');
-});
-Route::get('/android-callback', function () {
-    return view('android-callback');
-});
+
+Route::get('/teapot', function () {
+    return abort(418);
+})->name('teapot');
+
+Route::redirect('/android', 'https://indiepass.app/android');
+Route::redirect('/downloads', 'https://indiepass.app');
+Route::redirect('/ios', 'https://indiepass.app');
+Route::redirect('/desktop', 'https://indiepass.app/desktop');
+Route::redirect('/support', 'https://indiepass.app/support');
+Route::redirect('/privacy', 'https://indiepass.app/privacy');
+Route::redirect('/terms', 'https://indiepass.app');

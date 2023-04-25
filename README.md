@@ -1,2 +1,2 @@
-# indigenous-site
- Website for Indigenous
+# IndiePass Site
+Website for IndiePass

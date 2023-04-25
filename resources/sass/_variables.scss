@@ -1,20 +1,35 @@
-$blue:    #214154;
-$orange: #D54049;
+$blue: #214154;
 $white: #ffffff;
 $gray-600: #ced1d2;
+$gray-alt: #565858;
+$red: #C62828;
+$red-alt: #bd3e38;
+$dark: darken($blue, 10%);
+$black: #141414;
+$primary: $red;
+$secondary: $black;
 
-$primary: $orange;
-$secondary: $blue;
 $enable-rounded: false;
 $enable-deprecation-messages: false;
 
-$headings-font-weight: 700;
+$headings-font-weight: 600;
 
-$link-color:                              $orange;
-$link-decoration:                         underline;
+$link-decoration: underline;
 
-$font-family-sans-serif:      "Inter", sans-serif;
-$font-family-monospace:       monospace;
+$font-family-sans-serif: "Inter", sans-serif, "Apple Color Emoji",
+"Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-serif: "Lora", serif;
+$font-family-monospace: monospace;
+$line-height-base: 1.75;
+$headings-font-family: $font-family-sans-serif;
 
-$navbar-dark-color:           $white;
-$navbar-dark-hover-color:    darken($navbar-dark-color, 10%);
+$navbar-dark-color: $white;
+$navbar-dark-hover-color: darken($navbar-dark-color, 25%);
+
+$pagination-border-width: 0;
+
+$input-bg: $white;
+$input-color: $dark;
+
+$btn-close-opacity: 1;
+$btn-close-color: $black;

@@ -1,3 +1,1 @@
-// require('./bootstrap');
-
-import Collapse from 'bootstrap/js/dist/collapse';
+import {Collapse, Modal} from "bootstrap";
